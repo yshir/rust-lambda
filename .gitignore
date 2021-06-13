@@ -1,0 +1,5 @@
+/target
+
+lambda.zip
+cdk.out
+node_modules
